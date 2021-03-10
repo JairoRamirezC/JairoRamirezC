@@ -2,7 +2,7 @@
 
 Me apasiona el desarrollo web Frontend desde Cali, Colombia. Estoy interesado, escribo y desarrollo soluciones de software con JavaScript, TypeScript y ReactJS.
 
-## Acerca de mi en Code:
+## 🔑 Acerca de mi en Code and Image:
 
 ```js
 const JairoRamirezC = {
@@ -13,8 +13,6 @@ const JairoRamirezC = {
   learning: [Firebase, AWS]
 }
 ```
-
-<h3 align="left">Code and Tools:</h3>
 <p align="left"> 
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
@@ -51,7 +49,7 @@ const JairoRamirezC = {
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JairoRamirezC&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
 </a>
 
-## Puedes encontrarme en 🌎
+## 🌎Puedes encontrarme en 
 - [Twitter](https://twitter.com/JairoRamirezCa6)
 - [Linkedin](https://www.linkedin.com/in/jairoramirezc/)
 
