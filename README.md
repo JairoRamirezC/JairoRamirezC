@@ -7,7 +7,7 @@ Me apasiona el desarrollo web Frontend desde Cali, Colombia. Estoy interesado, e
 ```js
 const JairoRamirezC = {
   pronouns: "he" | "him",
-  code: [HTML5, CSS3, Javascript, SASS, Responsive Design],
+  code: [HTML5, CSS3, Javascript, SASS, Responsive Design, VTEX],
   tools: [Git, React, Redux, Hooks, Figma, Postman],
   student: "Platzi Master",
   learning: [Firebase, AWS]
