@@ -50,8 +50,7 @@ const JairoRamirezC = {
 </a>
 
 ## 🌎Puedes encontrarme en:
-- [Linkedin](https://www.linkedin.com/in/jairoramirezc/)
-- [Twitter](https://twitter.com/JairoRamirezCa6)
+- [Linkedin](https://www.linkedin.com/in/jairo-ramirez-castanio/)
 
 <!--
 **JairoRamirezC/JairoRamirezC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
